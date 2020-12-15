@@ -41,3 +41,11 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between',
   }
 });
+
+{
+  "dependencies": {
+    "expo-constants": "~9.3.1",
+    "react-native-paper": "3.6.0",
+    "react-native-elements": "*"
+  }
+}
